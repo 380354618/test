@@ -1,0 +1,10 @@
+{
+    "name": "administrator/test",
+    "authors": [
+        {
+            "name": "maizhijian",
+            "email": "380354618@qq.com"
+        }
+    ],
+    "require": {}
+}
